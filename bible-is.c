@@ -36,7 +36,7 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
-    char *filename = "/Users/isaacsun/Documents/bible-access/kjv.tsv";  // File name of the .tsv file
+    char *filename = "/usr/local/bin/kjv.tsv";  // File name of the .tsv file
     char book_name[MAX_FIELD_LENGTH] = "";  // Book name entered by user
     int chapter = -1, verse = -1;   // Chapter and verse entered by user
 
