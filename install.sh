@@ -8,7 +8,7 @@ gcc --version
 
 mv kjv.tsv /usr/local/bin
 mv bible-is.c isaac
-gcc bible-is.c -o bible
+gcc bible-is.c -o bible-kjv
 
 cd isaac/output
-mv bible /usr/local/bin
+mv bible-kjv /usr/local/bin
