@@ -1,6 +1,6 @@
 #!/bin/bash
-curl https://raw.githubusercontent.com/Isaac-Sun-2024/Bible-Access/main/kjv.tsv
-curl https://raw.githubusercontent.com/Isaac-Sun-2024/Bible-Access/main/bible-is.c
+curl -O https://raw.githubusercontent.com/Isaac-Sun-2024/Bible-Access/main/kjv.tsv
+curl -O https://raw.githubusercontent.com/Isaac-Sun-2024/Bible-Access/main/bible-is.c
 
 mkdir isaac
 brew install gcc
