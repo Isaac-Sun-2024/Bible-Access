@@ -9,5 +9,6 @@ gcc --version
 sudo mv kjv.tsv /usr/local/bin
 sudo gcc bible-is.c -o bible-kjv
 
-cd output
 sudo mv bible-kjv /usr/local/bin
+
+echo 'YOU ARE DONE. GOOD JOB. - Isaac'
