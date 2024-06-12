@@ -4,9 +4,9 @@ curl https://raw.githubusercontent.com/Isaac-Sun-2024/Bible-Access/main/bible-is
 
 mkdir isaac
 
-mv kjv.tsv /usr/local/bin
+sudo mv kjv.tsv /usr/local/bin
 mv bible-is.c isaac
-gcc bible-is.c -o bible
+gcc bible-is.c -o bible-kjv
 
 cd isaac/output
-mv bible /usr/local/bin
+sudo mv bible-kjv /usr/local/bin
