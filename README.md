@@ -1,7 +1,7 @@
 # Bible-Access
 Bringing the bible to everyone
 
-# install
+# Install
 Run:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Isaac-Sun-2024/Bible-Access/main/install.sh)"
 
