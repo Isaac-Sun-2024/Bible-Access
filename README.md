@@ -19,3 +19,9 @@ do not use install-dev.sh
 - Small file size
   
 - Install script/command included
+
+## Todo:
+
+- Add searching
+- Vim navigation
+- constant running
