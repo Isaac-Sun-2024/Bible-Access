@@ -6,9 +6,9 @@ mkdir isaac
 brew install gcc
 gcc --version
 
-mv kjv.tsv /usr/local/bin
-mv bible-is.c isaac
-gcc bible-is.c -o bible-kjv
+sudo mv kjv.tsv /usr/local/bin
+sudo mv bible-is.c isaac
+sudo gcc bible-is.c -o bible-kjv
 
 cd isaac/output
-mv bible-kjv /usr/local/bin
+sudo mv bible-kjv /usr/local/bin
