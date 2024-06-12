@@ -8,9 +8,9 @@ Run:
 do not use install-dev.sh
 
 # Features
-Written in C for MAXIMUM efficiency
-King James version
-Free for everyone - GNU public licence
-Easy to use (tutorial included by running main command)
-Small file size
-Install script/command included
+Written in C for MAXIMUM efficiency\n
+King James version\n
+Free for everyone - GNU public licence\n
+Easy to use (tutorial included by running main command)\n
+Small file size\n
+Install script/command included\n
