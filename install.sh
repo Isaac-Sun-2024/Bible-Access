@@ -1,4 +1,5 @@
 #!/bin/bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 mkdir isaac
 brew install git
 git clone https://github.com/Isaac-Sun-2024/Bible-Access.git
