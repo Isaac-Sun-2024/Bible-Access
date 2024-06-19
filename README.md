@@ -2,7 +2,9 @@
 Bringing the bible to everyone
 
 # Install
-Run:
+Run (if homebrew is not installed):
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Isaac-Sun-2024/Bible-Access/main/install.sh)"
+Run (if homebrew is installed):
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Isaac-Sun-2024/Bible-Access/main/install.sh)"
 
 do not use install-dev.sh
