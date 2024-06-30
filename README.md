@@ -17,7 +17,7 @@ do not use install-dev.sh
 
 - Free for everyone - GNU public licence
 
-- Easy to use (tutorial included by running main command)
+- Easy to use (tutorial included by running 'bible' command)
 
 - Small file size
   
