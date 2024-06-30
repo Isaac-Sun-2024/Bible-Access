@@ -1,5 +1,5 @@
 # Bible-Access
-Bringing the bible to everyone
+Allow bible to be read quickly and fastly
 
 # Install
 Run (if homebrew is not installed):
